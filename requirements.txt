@@ -1,0 +1,7 @@
+fastmcp>=2.2.7
+pydantic>=1.10.8
+requests>=2.28.2
+beautifulsoup4>=4.12.2
+pytz>=2023.3
+aiohttp>=3.8.4
+lxml>=4.9.2 

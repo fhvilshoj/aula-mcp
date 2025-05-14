@@ -1,0 +1,22 @@
+[project]
+name = "aula-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.11.18",
+    "beautifulsoup4>=4.13.4",
+    "fastmcp>=2.3.3",
+    "lxml>=5.4.0",
+    "pydantic>=2.11.4",
+    "pytx>=0.5.10",
+    "pytz>=2025.2",
+    "requests>=2.32.3",
+]
+
+[dependency-groups]
+dev = [
+    "ipdb>=0.13.13",
+    "pyfzf>=0.3.1",
+]

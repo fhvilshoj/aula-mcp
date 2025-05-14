@@ -1,0 +1,7 @@
+{
+  "username": "my_user_name",
+  "password": "my_password",
+  "schoolschedule": true,
+  "ugeplan": true,
+  "mu_opgaver": true
+}
